@@ -1,0 +1,19 @@
+{
+  "name": "mastani-codehighlight",
+  "version": "0.0.1",
+  "description": "a prism wrapper for mastani project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mastani",
+    "code",
+    "hightlight"
+  ],
+  "author": "mydearxym@qq.com",
+  "license": "ISC"
+}
