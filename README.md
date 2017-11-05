@@ -3,6 +3,8 @@
 
 a custom version of prism use for mastani project
 
+see [prismjs config page](http://prismjs.com/download.html)
+
 ## include languages
 
 1. Markup
