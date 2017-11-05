@@ -1,8 +1,12 @@
 {
   "name": "mastani-codehighlight",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "a prism wrapper for mastani project",
   "main": "prism.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mydearxym/mastani-codehighlight"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
