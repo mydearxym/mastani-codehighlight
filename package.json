@@ -1,6 +1,6 @@
 {
   "name": "mastani-codehighlight",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "a prism wrapper for mastani project",
   "main": "prism.js",
   "scripts": {
